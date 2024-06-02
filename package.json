@@ -2,7 +2,11 @@
   "name": "react2web3-project",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.7",
     "@openzeppelin/contracts": "^5.0.2",
     "hardhat": "^2.22.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
   }
 }
